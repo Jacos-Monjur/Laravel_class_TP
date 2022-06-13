@@ -1,6 +1,6 @@
 ## Clone git
 
-git clone https://github.com/libgit2/libgit2
+git clone https://github.com/Jacos-Monjur/Laravel_class_TP.git
 
 ## composer update command
 composer update
